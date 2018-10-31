@@ -1,2 +1,2 @@
-# mynewproject
-Sample git repository for cookbook
+# Secondproject
+Sample git repository for Second cookbook
